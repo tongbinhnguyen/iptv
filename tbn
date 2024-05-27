@@ -99,3 +99,5 @@ http://103.77.241.152:1234/stream/hbo/stream.m3u8
 http://103.77.241.152:1234/stream/cinemaxhd/stream.m3u8
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
+#EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://newsmd2fr.keeng.vn/tiin/archive/images/20210907/110142_sctv_61_1.jpg", SCTV6 Viettel
+https://vod-h02-hlc.tv360.vn:18443//297_2.m3u8
