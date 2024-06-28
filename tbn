@@ -87,7 +87,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="🎬| Phim truyện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/04/09/rtj1fwg1_ngang-hbo5488cb97fc2af048dc243a9fd848ce17_296_168.png", HBO HD
 http://103.77.241.152:1234/stream/hbo/stream.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎬| Phim truyện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", CINEMAX HD
-http://103.77.241.152:1234/stream/cinemaxhd/stream.m3u8
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🎬| Phim truyện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/28/khnq454u_thumb-ngang-warner447e4a3e736de3c32294ef14a0b7596a_296_168.png", warner TV
 http://103.77.241.152:1234/stream/warnertv/stream.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🎬| Phim truyện" tvg-logo="https://img.lichphatsong.xyz/logo/axn.png", AXN HD
