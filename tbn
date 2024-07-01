@@ -66,6 +66,8 @@ http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/22.m3u8
 
 #EXTINF:-1 tvg-id="VietGiaTri" group-title="🍄| VTVCab" tvg-logo="https://xemtv.tvhayhd.tv/uploads/tv_image/vtvcab1.jpg", Vieon Giải Trí 
 https://api.wintv.me/vtvcab1/index.m3u8
+#EXTINF:-1 tvg-id="VieChannel" group-title="🍄| VTVCab" tvg-logo="https://xemtv.tvhayhd.tv/uploads/tv_image/vtvcab1.jpg", VieChannel HTV2
+https://api.wintv.me/htv2/index.m3u8
 
 #EXTINF:-1 tvg-id="fashionhd" group-title="♻️| Giải trí & News" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV 2
 https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
