@@ -68,7 +68,7 @@ http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/22.m3u8
 https://api.wintv.me/vtvcab1/index.m3u8
 #EXTINF:-1 tvg-id="VieChannel" group-title="🍄| VTVCab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/HTV2_-_Vie_Channel_logo.png", VieChannel HTV2
 https://api.wintv.me/htv2/index.m3u8
-#EXTINF:-1 tvg-id="HTVC Phim" group-title="🍄| VTVCab" tvg-logo="http://tv.vinaphone.com.vn/images/channel/HTVCPhim.gif", HTVC Phim
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="🍄| VTVCab" tvg-logo="http://tv.vinaphone.com.vn/images/channel/HTVCPhim.gif", HTVC Phim
 https://api.wintv.me/htvcphim/index.m3u8
 
 #EXTINF:-1 tvg-id="fashionhd" group-title="♻️| Giải trí & News" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV 2
@@ -119,7 +119,7 @@ http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/39.m3u8
 http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/42.m3u8
 #EXTINF:-1 tvg-id="CinemaWorld" group-title="🎬| Phim truyện" tvg-logo="https://logowik.com/content/uploads/images/cineworld5608.jpg", Cinema World
 http://103.77.241.152:1234/stream/cinemaworld/stream.m3u8
-#EXTINF:-1 tvg-id="Planet Earth" group-title="🎬| Phim truyện" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2016/09/14115726/planet-earth.jpg", Planet-Earth
+#EXTINF:-1 tvg-id="planetearthhd" group-title="🎬| Phim truyện" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2016/09/14115726/planet-earth.jpg", Planet-Earth
 http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/45.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam
