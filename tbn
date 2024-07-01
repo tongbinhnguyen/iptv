@@ -117,6 +117,8 @@ http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/38.m3u8
 http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/39.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎬| Phim truyện" tvg-logo="https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/hwc-2021_df4ce62c.jpg", Hollywood Classics
 http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/42.m3u8
+#EXTINF:-1 tvg-id="CinemaWorld" group-title="🎬| Phim truyện" tvg-logo="https://logowik.com/content/uploads/images/cineworld5608.jpg", Cinema World
+http://103.77.241.152:1234/stream/cinemaworld/stream.m3u8
 #EXTINF:-1 tvg-id="Planet Earth" group-title="🎬| Phim truyện" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2016/09/14115726/planet-earth.jpg", Planet-Earth
 http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/45.m3u8
 
