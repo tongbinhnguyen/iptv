@@ -37,7 +37,7 @@ http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/6.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="🍄| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/70.png", SCTV8 HD
 http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/7.m3u8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="🍄| SCTV" tvg-logo="https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/imaginary.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/tenants/none_tenant/photos/9_2e957ae2.jpg", SCTV9 HD
-http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/8.m3u8
+http://103.171.91.5/play/h_r77ML7RWRQL2dyARFEmy8lUlzDqzoSZ4a76oJxU00/m3u8
 #EXTINF:-1 tvg-id="sctv11hd" group-title="🍄| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/73.png", SCTV11 HD
 http://103.77.241.195/NgBewedPwR/f6yxYCZCKz/10.m3u8
 #EXTINF:-1 tvg-id="sctv12hd" group-title="🍄| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/74.png", SCTV12 HD
@@ -124,4 +124,3 @@ http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/45.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🎬| Phim truyện" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
-
