@@ -21,7 +21,8 @@ http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/59.m3u8
 http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/60.m3u8
 #EXTINF:-1 tvg-id="hollywood" group-title="🌺| VTV" tvg-logo="https://i.imgur.com/R82M53x.png", Hollywood
 http://123.21.223.9:8081/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/hollywood/index.m3u8
-
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="🌺| VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong1hd.jpg", THVL1
+https://thvip.site/vl1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="🍄| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV1 HD
